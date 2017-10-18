@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PitcureBox", "01.Pitcure
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Picture和Timer的联系", "02.Picture和Timer的联系\02.Picture和Timer的联系.csproj", "{A40BDF22-819F-4667-8D99-C5CCD045B855}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TextBox换行", "03.TextBox换行\03.TextBox换行.csproj", "{538E0AA3-C2F0-43CB-A6C7-EB4CEFC23390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RadioMultiSelect", "04.RadioMultiSelect\04.RadioMultiSelect.csproj", "{B23D7545-3755-498F-A6FB-2BA0A262A173}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A40BDF22-819F-4667-8D99-C5CCD045B855}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A40BDF22-819F-4667-8D99-C5CCD045B855}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A40BDF22-819F-4667-8D99-C5CCD045B855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538E0AA3-C2F0-43CB-A6C7-EB4CEFC23390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538E0AA3-C2F0-43CB-A6C7-EB4CEFC23390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538E0AA3-C2F0-43CB-A6C7-EB4CEFC23390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538E0AA3-C2F0-43CB-A6C7-EB4CEFC23390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23D7545-3755-498F-A6FB-2BA0A262A173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23D7545-3755-498F-A6FB-2BA0A262A173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23D7545-3755-498F-A6FB-2BA0A262A173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23D7545-3755-498F-A6FB-2BA0A262A173}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,19 +4,19 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _02.Picture和Timer的联系
+namespace _03.TextBox换行
 {
     static class Program
     {
         /// <summary>
         /// 应用程序的主入口点。
-        /// </summary>  
+        /// </summary>
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new PaoMaLight());
         }
     }
 }
